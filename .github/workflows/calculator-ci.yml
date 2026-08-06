@@ -19,7 +19,7 @@ jobs:
           distribution: 'temurin'
 
       - name: Run unit tests
-        run: ./gradlew test --info
+        run: ./gradlew test --rerun-tasks
         working-directory: week10/calculator
 
   build-and-test:
