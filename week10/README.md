@@ -1,4 +1,5 @@
 # Week 10 — Building Reliable Systems
+Testing ci pipeline
 
 Starter code for the Week 10 reliability lab and the running capstone. Everything
 runs locally against one Kafka broker; the optional failover demo uses three.
